@@ -11,7 +11,7 @@ class Employee {
 
     // Constructor and getter/setter methods
 }
-✅ Task 1: Create a List of Employee Objects
+Task 1: Create a List of Employee Objects
 Use the following data to create a list of Employee objects:
 
 Employee ID	Employee Name	Designation	Manager ID
@@ -26,7 +26,7 @@ D1S2	Christopher Martinez	SE	L8M5
 E6T0	Nancy Rodriguez	MS	C5R1
 F4U8	Patricia Walker	MS	C5R1
 
-✅ Task 2: Print Employee Hierarchy
+Task 2: Print Employee Hierarchy
 Write a function:
 String getEmployeeHierarchy(String employeeId)
 This function should:
@@ -37,7 +37,7 @@ Format: "Name (Designation - ID)" for each employee.
 
 Separate each employee in the hierarchy using ,.
 
-💡 Example:
+Example:
 Input: B9Q7
 Expected Output:
 "John Doe (CEO - X7F3), Jane Smith (CTO - POR4), Michael Brown (VP Eng - L8M5), Emily Davis (SE - B9Q7)"
