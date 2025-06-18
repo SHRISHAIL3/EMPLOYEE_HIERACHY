@@ -1,5 +1,5 @@
 # EMPLOYEE_HIERACHY
-ava Interview Question Company: Supai Infotech
+Java Interview Question Company: Supai Infotech
  Problem Description
 You are given a class structure to represent employee information:
 
